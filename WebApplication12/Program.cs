@@ -23,3 +23,4 @@ app.UseAuthorization();
 app.MapControllers();
 //12
 app.Run();
+app.Run();
