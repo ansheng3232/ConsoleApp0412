@@ -21,10 +21,6 @@ app.UseHttpsRedirection();
 app.MapControllers();
 app.MapControllers(); 
 app.MapControllers();
-app.UseHttpsRedirection();
-app.UseHttpsRedirection();
-app.UseHttpsRedirection();
-//456
 //12
 app.UseAuthorization();
 //12
