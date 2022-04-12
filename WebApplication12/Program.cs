@@ -17,6 +17,9 @@ if (app.Environment.IsDevelopment())
 }
 //12
 app.UseHttpsRedirection();
+app.UseHttpsRedirection();
+app.UseHttpsRedirection();
+app.UseHttpsRedirection();
 //12
 app.UseAuthorization();
 //12
