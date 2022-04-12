@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-//12
+//12132
 app.UseHttpsRedirection();
 app.UseHttpsRedirection();
 app.UseHttpsRedirection();
