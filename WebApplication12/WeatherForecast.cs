@@ -2,7 +2,9 @@ namespace WebApplication12
 {
     public class WeatherForecast
     {
-        public DateTime Date { get; set; }
+        public DateTime Date { get; 
+            //123
+            set; }
 
         public int TemperatureC { get; set; }
         //123
